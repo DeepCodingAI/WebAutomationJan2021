@@ -32,7 +32,6 @@
                 <version>7.4.0</version>
             </dependency>
         </dependencies>
-
     </dependencyManagement>
 
 </project>

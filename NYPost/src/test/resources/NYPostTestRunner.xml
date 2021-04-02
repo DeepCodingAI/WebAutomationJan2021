@@ -9,8 +9,7 @@
     <test name = "NYP Home">
 
         <classes>
-            <class name="homepage.NewsPage"></class>
-
+            <class name="homepage.TestAllFunctionality"></class>
         </classes>
 
     </test>
