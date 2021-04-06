@@ -4,6 +4,7 @@ import base.CommonAPI;
 import com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.sql.SQLOutput;
@@ -17,5 +18,7 @@ public class DropDownMenu extends CommonAPI {
         for(String value:menuList){
             System.out.println(value);
         }
+        List<String> expectedList = menuList; //api call
+        Assert.assertEquals(menuList,expectedList);
     }
 }

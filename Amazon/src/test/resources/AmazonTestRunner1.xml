@@ -8,8 +8,9 @@
     <test name = "Amazon Home">
 
         <classes>
-            <class name="landingpage.PageTitle"></class>
-            <class name="landingpage.Search"></class>
+<!--            <class name="landingpage.PageTitle"></class>-->
+<!--            <class name="landingpage.Search"></class>-->
+            <class name="landingpage.TestSearch"></class>
         </classes>
 
     </test>

@@ -2,7 +2,6 @@ package pages;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
-import sun.jvm.hotspot.debugger.Page;
 
 public class AllFunctionality {
 
