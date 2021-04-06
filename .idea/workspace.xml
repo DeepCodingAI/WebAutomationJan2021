@@ -2,31 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3d9a5a-1b09-409d-a3be-a7b1f8da3617" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon/src/main/java/datasuply/DataReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Amazon/src/test/java/landingpage/TestSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/aws-secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/local-secret.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/datasource/ConnectToSqlDB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/test/java/homepage/SectionArticleNews.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/landingpage/DropDownMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/landingpage/DropDownMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/landingpage/DropDownMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/landingpage/DropDownMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/src/test/resources/NYPostTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/test/resources/NYPostTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/AllFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/AllFunctionality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/aws-secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/resources/aws-secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/local-secret.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/resources/local-secret.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/src/main/java/datasource/ConnectToSqlDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/datasource/ConnectToSqlDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/datasource/ConnectToSqlDB.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/datasource/ConnectToSqlDB.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,14 +49,15 @@
     <property name="project.structure.side.proportion" value="0.15517241" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Amazon/src/test/resources" />
-      <recent name="$PROJECT_DIR$/Generic" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
       <recent name="$PROJECT_DIR$/NYPost/src/test" />
       <recent name="$PROJECT_DIR$/Amazon/src/test/resources" />
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Amazon/src/test/resources" />
+      <recent name="$PROJECT_DIR$/Generic" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/Amazon/src/test/resources/AmazonTestRunner1.xml">
@@ -217,45 +198,45 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="736" height="539" key="DebuggerActiveHint/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677444902" />
-    <state width="1397" height="133" key="GridCell.Tab.0.bottom" timestamp="1617677274056">
+    <state width="1397" height="224" key="GridCell.Tab.0.bottom" timestamp="1617677908556">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677274056" />
+    <state width="1397" height="224" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908556" />
     <state width="1397" height="407" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="133" key="GridCell.Tab.0.center" timestamp="1617677274055">
+    <state width="1397" height="224" key="GridCell.Tab.0.center" timestamp="1617677908555">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677274055" />
+    <state width="1397" height="224" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908555" />
     <state width="1397" height="407" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="133" key="GridCell.Tab.0.left" timestamp="1617677274055">
+    <state width="1397" height="224" key="GridCell.Tab.0.left" timestamp="1617677908555">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677274055" />
+    <state width="1397" height="224" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908555" />
     <state width="1397" height="407" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1617394391655" />
-    <state width="1397" height="133" key="GridCell.Tab.0.right" timestamp="1617677274056">
+    <state width="1397" height="224" key="GridCell.Tab.0.right" timestamp="1617677908556">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677274056" />
+    <state width="1397" height="224" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908556" />
     <state width="1397" height="407" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="133" key="GridCell.Tab.1.bottom" timestamp="1617677308576">
+    <state width="1397" height="343" key="GridCell.Tab.1.bottom" timestamp="1617677908090">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677308576" />
+    <state width="1397" height="343" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908090" />
     <state width="1397" height="407" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617394391660" />
-    <state width="1397" height="133" key="GridCell.Tab.1.center" timestamp="1617677308574">
+    <state width="1397" height="343" key="GridCell.Tab.1.center" timestamp="1617677908088">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677308574" />
+    <state width="1397" height="343" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908088" />
     <state width="1397" height="407" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1617394391659" />
-    <state width="1397" height="133" key="GridCell.Tab.1.left" timestamp="1617677308573">
+    <state width="1397" height="343" key="GridCell.Tab.1.left" timestamp="1617677908087">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677308573" />
+    <state width="1397" height="343" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908087" />
     <state width="1397" height="407" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1617394391657" />
-    <state width="1397" height="133" key="GridCell.Tab.1.right" timestamp="1617677308574">
+    <state width="1397" height="343" key="GridCell.Tab.1.right" timestamp="1617677908089">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="133" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677308574" />
+    <state width="1397" height="343" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617677908089" />
     <state width="1397" height="407" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1617394391659" />
     <state x="211" y="34" key="SettingsEditor" timestamp="1617671308899">
       <screen x="0" y="23" width="1440" height="877" />
