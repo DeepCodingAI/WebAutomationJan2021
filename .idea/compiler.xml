@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Generic" />
         <module name="NYPost" />
+        <module name="W3Schools" />
         <module name="Amazon" />
       </profile>
     </annotationProcessing>

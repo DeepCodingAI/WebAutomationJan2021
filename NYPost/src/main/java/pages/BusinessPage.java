@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
-public class BusinessPage {
+public class BusinessPage extends News{
     private final WebDriver driver;
 
     public BusinessPage(WebDriver driver){

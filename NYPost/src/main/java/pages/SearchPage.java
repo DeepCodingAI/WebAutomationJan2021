@@ -30,4 +30,8 @@ public class SearchPage {
         typeOnSearchField("covid-19");
         clickOnSubmitButton();
     }
+    public void clickOnSearchButton(){
+        searchSubmitButtonWebElement.click();
+    }
+
 }
