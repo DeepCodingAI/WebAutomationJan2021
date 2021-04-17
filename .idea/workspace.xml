@@ -2,49 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a3d9a5a-1b09-409d-a3be-a7b1f8da3617" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Generic/src/main/java/datasource/ConnectToExcelFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/data/nyp-test-steps.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/main/java/datafetch/FetchTheSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/EntertainmentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/MetroPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/News.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/SignUpPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/src/main/java/table/ReadTableData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/java/table/data/TestWebTableData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/landingpage/PageTitle.class" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/landingpage/PageTitle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/data/nyp-test-steps.xls" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/data/nyp-test-steps.xls" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/BusinessPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/BusinessPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/LandingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/LandingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/SearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/SearchPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYPost/src/main/java/pages/SectionPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/main/java/pages/SectionPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/src/test/java/homepage/TestAllFunctionality.java" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/test/java/homepage/TestAllFunctionality.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYPost/src/test/resources/NYPostTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/src/test/resources/NYPostTestRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/AllFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/AllFunctionality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/BusinessPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/BusinessPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/LandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/LandingPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/SearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/SearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/classes/pages/SectionPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/classes/pages/SectionPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/NewsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/NewsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/SectionArticleNews.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/SectionArticleNews.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/TestAllFunctionality.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/TestAllFunctionality.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/TestSearchPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/homepage/TestSearchPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +71,7 @@
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/Amazon/src/test/resources/AmazonTestRunner1.xml">
+  <component name="RunManager" selected="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/NYPost/src/test/resources/NYPostTestRunner.xml">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -208,9 +175,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/NYPost/src/test/resources/NYPostTestRunner.xml" />
         <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/Amazon/src/test/resources/AmazonTestRunner1.xml" />
         <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" />
-        <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/NYPost/src/test/resources/NYPostTestRunner.xml" />
         <item itemvalue="TestNG./Users/mrahman/develop/deepcoding/WebAutomationJanuary2021/Amazon/src/test/resources/AmazonTestRunner2.xml" />
         <item itemvalue="TestNG.Search.search" />
       </list>
@@ -238,58 +205,59 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="428" y="261" key="#com.intellij.fileTypes.FileTypeChooser/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617067185934" />
-    <state width="736" height="539" key="DebuggerActiveHint" timestamp="1617934423980">
+    <state width="736" height="539" key="DebuggerActiveHint" timestamp="1618684580840">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="736" height="539" key="DebuggerActiveHint/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934423980" />
-    <state width="1397" height="173" key="GridCell.Tab.0.bottom" timestamp="1617934895626">
+    <state width="736" height="539" key="DebuggerActiveHint/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684580840" />
+    <state width="1356" height="222" key="GridCell.Tab.0.bottom" timestamp="1618684837993">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="173" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934895626" />
-    <state width="1397" height="407" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="173" key="GridCell.Tab.0.center" timestamp="1617934895622">
+    <state width="1356" height="222" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684837993" />
+    <state width="1397" height="295" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617977492233" />
+    <state width="1356" height="222" key="GridCell.Tab.0.center" timestamp="1618684837991">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="173" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934895622" />
-    <state width="1397" height="407" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="173" key="GridCell.Tab.0.left" timestamp="1617934895621">
+    <state width="1356" height="222" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684837991" />
+    <state width="1397" height="295" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1617977492233" />
+    <state width="1356" height="222" key="GridCell.Tab.0.left" timestamp="1618684837990">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="173" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934895621" />
-    <state width="1397" height="407" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1617394391655" />
-    <state width="1397" height="173" key="GridCell.Tab.0.right" timestamp="1617934895625">
+    <state width="1356" height="222" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684837990" />
+    <state width="1397" height="295" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1617977492232" />
+    <state width="1356" height="222" key="GridCell.Tab.0.right" timestamp="1618684837992">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="173" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934895625" />
-    <state width="1397" height="407" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1617394391656" />
-    <state width="1397" height="295" key="GridCell.Tab.1.bottom" timestamp="1617934813540">
+    <state width="1356" height="222" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684837992" />
+    <state width="1397" height="295" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1617977492233" />
+    <state width="1356" height="222" key="GridCell.Tab.1.bottom" timestamp="1618684888841">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="295" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934813540" />
-    <state width="1397" height="407" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617394391660" />
-    <state width="1397" height="295" key="GridCell.Tab.1.center" timestamp="1617934813538">
+    <state width="1356" height="222" key="GridCell.Tab.1.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684888841" />
+    <state width="1397" height="295" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1617977492235" />
+    <state width="1356" height="222" key="GridCell.Tab.1.center" timestamp="1618684888839">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="295" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934813538" />
-    <state width="1397" height="407" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1617394391659" />
-    <state width="1397" height="295" key="GridCell.Tab.1.left" timestamp="1617934813538">
+    <state width="1356" height="222" key="GridCell.Tab.1.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684888839" />
+    <state width="1397" height="295" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1617977492234" />
+    <state width="1356" height="222" key="GridCell.Tab.1.left" timestamp="1618684888838">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="295" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934813538" />
-    <state width="1397" height="407" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1617394391657" />
-    <state width="1397" height="295" key="GridCell.Tab.1.right" timestamp="1617934813539">
+    <state width="1356" height="222" key="GridCell.Tab.1.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684888838" />
+    <state width="1397" height="295" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1617977492234" />
+    <state width="1356" height="222" key="GridCell.Tab.1.right" timestamp="1618684888840">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1397" height="295" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617934813539" />
-    <state width="1397" height="407" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1617394391659" />
+    <state width="1356" height="222" key="GridCell.Tab.1.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684888840" />
+    <state width="1397" height="295" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1617977492234" />
     <state x="211" y="34" key="SettingsEditor" timestamp="1617671308899">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="211" y="34" key="SettingsEditor/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617671308899" />
-    <state x="375" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1617925903755">
+    <state x="375" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1618674555526">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="375" y="299" key="com.intellij.ide.util.TipDialog/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1617925903755" />
+    <state x="375" y="299" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1618674555526" />
     <state x="100" y="107" key="new project wizard" timestamp="1617931112401">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -344,14 +312,14 @@
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/NYPost/src/test/java/homepage/TestAllFunctionality.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="17" />
+          <url>file://$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java</url>
-          <line>38</line>
-          <option name="timeStamp" value="18" />
+          <url>file://$PROJECT_DIR$/NYPost/src/main/java/pages/AllFunctionality.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

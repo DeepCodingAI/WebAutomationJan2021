@@ -25,7 +25,7 @@ public class AllFunctionality {
         landingPage = PageFactory.initElements(driver, LandingPage.class);
         landingPage.clickOnSearch();
         searchPage = PageFactory.initElements(driver, SearchPage.class);
-        searchPage.clickOnSearchButton();
+        searchPage.searchIconClickNEnterNewsNSubmit();
     }
 
     public void clickOnSectionMenu(WebDriver driver)throws InterruptedException{
@@ -66,5 +66,4 @@ public class AllFunctionality {
                 throw new InvalidArgumentException("Invalid features choice");
         }
     }
-
 }

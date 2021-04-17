@@ -11,13 +11,13 @@ public class SectionPage {
     @FindBy(how = How.CSS,using = "#sections > span.pages.menu-icon > svg")
     public static WebElement sectionMenuWebElement;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(2) a")
+    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(3) a")
     public static WebElement metroMenuWebElement;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(5) a")
+    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(6) a")
     public static WebElement businessMenuWebElement;
 
-    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(7) a")
+    @FindBy(how = How.CSS, using = "#menu-main-menu li:nth-child(8) a")
     public static WebElement entertainmentMenuWebElement;
 
     public WebElement getSectionMenuWebElement(){

@@ -7,7 +7,7 @@ import org.openqa.selenium.support.How;
 
 public class LandingPage {
 
-    @FindBy(how = How.CSS, using = "nav#page-nav.page-nav")
+    @FindBy(how = How.CSS, using = "#sections > span.menu-icon > svg")
     public static WebElement sectionNavBarWebElement;
 
     @FindBy(how = How.CSS,using = "span.search-text")
