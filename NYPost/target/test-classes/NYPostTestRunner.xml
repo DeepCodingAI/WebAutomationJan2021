@@ -13,7 +13,7 @@
     <test name = "NYP Home">
 
         <classes>
-            <class name="homepage.TestAllFunctionality"></class>
+<!--            <class name="homepage.TestAllFunctionality"></class>-->
 <!--            <class name="homepage.SectionArticleNews"></class>-->
         </classes>
 

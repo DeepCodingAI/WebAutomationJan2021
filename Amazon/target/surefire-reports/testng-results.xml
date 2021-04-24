@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Amazon Test Script" duration-ms="14305" started-at="2021-04-01T20:15:43 EDT" finished-at="2021-04-01T20:15:58 EDT">
+  <suite name="Amazon Test Script" duration-ms="11357" started-at="2021-04-24T13:46:14 EDT" finished-at="2021-04-24T13:46:25 EDT">
     <groups>
     </groups>
-    <test name="Amazon Home" duration-ms="14305" started-at="2021-04-01T20:15:43 EDT" finished-at="2021-04-01T20:15:58 EDT">
+    <test name="Amazon Home" duration-ms="11357" started-at="2021-04-24T13:46:14 EDT" finished-at="2021-04-24T13:46:25 EDT">
       <class name="landingpage.PageTitle">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:landingpage.PageTitle@2d928643]" name="setUp" is-config="true" duration-ms="13461" started-at="2021-04-01T20:15:43 EDT" finished-at="2021-04-01T20:15:57 EDT">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:landingpage.PageTitle@64bf3bbf]" name="setUp" is-config="true" duration-ms="9949" started-at="2021-04-24T13:46:14 EDT" finished-at="2021-04-24T13:46:24 EDT">
           <params>
             <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[browserstack]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[OS X]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Sierra]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[80.0]]>
+              </value>
+            </param>
+            <param index="6">
               <value>
                 <![CDATA[http://amazon.com]]>
               </value>
@@ -18,42 +48,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="checkTitle()[pri:0, instance:landingpage.PageTitle@2d928643]" name="checkTitle" duration-ms="35" started-at="2021-04-01T20:15:57 EDT" finished-at="2021-04-01T20:15:57 EDT">
+        <test-method status="PASS" signature="checkTitle()[pri:0, instance:landingpage.PageTitle@64bf3bbf]" name="checkTitle" duration-ms="234" started-at="2021-04-24T13:46:24 EDT" finished-at="2021-04-24T13:46:24 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- checkTitle -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:landingpage.PageTitle@2d928643]" name="cleanUp" is-config="true" duration-ms="733" started-at="2021-04-01T20:15:57 EDT" finished-at="2021-04-01T20:15:58 EDT">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:landingpage.PageTitle@64bf3bbf]" name="cleanUp" is-config="true" duration-ms="1136" started-at="2021-04-24T13:46:24 EDT" finished-at="2021-04-24T13:46:25 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
       </class> <!-- landingpage.PageTitle -->
     </test> <!-- Amazon Home -->
   </suite> <!-- Amazon Test Script -->
-  <suite name="Amazon Test Script (0)" duration-ms="19960" started-at="2021-04-01T20:15:58 EDT" finished-at="2021-04-01T20:16:18 EDT">
-    <groups>
-    </groups>
-    <test name="Amazon Home" duration-ms="19960" started-at="2021-04-01T20:15:58 EDT" finished-at="2021-04-01T20:16:18 EDT">
-      <class name="landingpage.Search">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:landingpage.Search@2758fe70]" name="setUp" is-config="true" duration-ms="12316" started-at="2021-04-01T20:15:58 EDT" finished-at="2021-04-01T20:16:10 EDT">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[http://amazon.com]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="search()[pri:0, instance:landingpage.Search@2758fe70]" name="search" duration-ms="7499" started-at="2021-04-01T20:16:10 EDT" finished-at="2021-04-01T20:16:18 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- search -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:landingpage.Search@2758fe70]" name="cleanUp" is-config="true" duration-ms="143" started-at="2021-04-01T20:16:18 EDT" finished-at="2021-04-01T20:16:18 EDT">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- cleanUp -->
-      </class> <!-- landingpage.Search -->
-    </test> <!-- Amazon Home -->
-  </suite> <!-- Amazon Test Script (0) -->
 </testng-results>

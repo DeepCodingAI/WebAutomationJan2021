@@ -3,8 +3,38 @@
   <component name="ChangeListManager">
     <list default="true" id="2a3d9a5a-1b09-409d-a3be-a7b1f8da3617" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunner1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Test Script/Amazon Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Test Script/Amazon Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Test Script/Amazon Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon Test Script/Amazon Home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-landingpage.PageTitle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-landingpage.PageTitle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon Test Script/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunner1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/NYPost-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/NYPost Test Script/NYP Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/NYPost Test Script/NYP Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/NYPost Test Script/NYP Home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/NYPost Test Script/NYP Home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/TEST-TestSuite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/TestSuite.txt" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/testng.xml.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/NYPost Test Script/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/NYPost/target/test-classes/NYPostTestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/W3Schools/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/W3Schools/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +57,6 @@
         <option name="importAutomatically" value="true" />
       </MavenImportingSettings>
     </option>
-  </component>
-  <component name="MavenRunner">
-    <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1qSHxVKjJvAHtGCtit4yrj0kXD2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -202,26 +229,26 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="736" height="539" key="DebuggerActiveHint/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1618684580840" />
-    <state width="1381" height="270" key="GridCell.Tab.0.bottom" timestamp="1619286027456">
+    <state width="1381" height="270" key="GridCell.Tab.0.bottom" timestamp="1619286400332">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1356" height="110" key="GridCell.Tab.0.bottom/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1619274606739" />
-    <state width="1381" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619286027456" />
-    <state width="1381" height="270" key="GridCell.Tab.0.center" timestamp="1619286027456">
+    <state width="1381" height="270" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1619286400332" />
+    <state width="1381" height="270" key="GridCell.Tab.0.center" timestamp="1619286400323">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1356" height="110" key="GridCell.Tab.0.center/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1619274606738" />
-    <state width="1381" height="270" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1619286027456" />
-    <state width="1381" height="270" key="GridCell.Tab.0.left" timestamp="1619286027456">
+    <state width="1381" height="270" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1619286400323" />
+    <state width="1381" height="270" key="GridCell.Tab.0.left" timestamp="1619286400322">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1356" height="110" key="GridCell.Tab.0.left/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1619274606738" />
-    <state width="1381" height="270" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1619286027456" />
-    <state width="1381" height="270" key="GridCell.Tab.0.right" timestamp="1619286027456">
+    <state width="1381" height="270" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1619286400322" />
+    <state width="1381" height="270" key="GridCell.Tab.0.right" timestamp="1619286400323">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state width="1356" height="110" key="GridCell.Tab.0.right/-309.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1619274606738" />
-    <state width="1381" height="270" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1619286027456" />
+    <state width="1381" height="270" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1619286400323" />
     <state width="1356" height="222" key="GridCell.Tab.1.bottom" timestamp="1619274606671">
       <screen x="0" y="23" width="1440" height="877" />
     </state>

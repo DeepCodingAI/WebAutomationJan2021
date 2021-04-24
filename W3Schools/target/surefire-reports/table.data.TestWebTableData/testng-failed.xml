@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [table.data.TestWebTableData]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="table.data.TestWebTableData">
+        <methods>
+          <include name="setUp"/>
+          <include name="readWebText"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- table.data.TestWebTableData -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [table.data.TestWebTableData] -->
