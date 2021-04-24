@@ -25,8 +25,8 @@ import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
 
-    public String browserStackUserName = "your_user_name";
-    public String browserStackAccessKey = "your_access_key";
+    public String browserStackUserName = "matiurrahman4";
+    public String browserStackAccessKey = "vxgPF5RatzyD5MogH2Zx";
     public String sauceLabsUserName = "";
     public String sauceLabsAccessKey = "";
 
