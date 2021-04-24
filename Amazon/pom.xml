@@ -36,7 +36,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <suiteXmlFiles>target/test-classes/AmazonTestRunner1.xml</suiteXmlFiles>
-                        <suiteXmlFiles>target/test-classes/AmazonTestRunner2.xml</suiteXmlFiles>
+<!--                        <suiteXmlFiles>target/test-classes/AmazonTestRunner2.xml</suiteXmlFiles>-->
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
