@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="W3Schools Test Script" duration-ms="7370" started-at="2021-04-24T13:46:28 EDT" finished-at="2021-04-24T13:46:35 EDT">
+  <suite name="W3Schools Test Script" duration-ms="7597" started-at="2021-04-24T14:59:39 EDT" finished-at="2021-04-24T14:59:46 EDT">
     <groups>
     </groups>
-    <test name="W3Schools Home" duration-ms="7370" started-at="2021-04-24T13:46:28 EDT" finished-at="2021-04-24T13:46:35 EDT">
+    <test name="W3Schools Home" duration-ms="7597" started-at="2021-04-24T14:59:39 EDT" finished-at="2021-04-24T14:59:46 EDT">
       <class name="table.data.TestWebTableData">
-        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:table.data.TestWebTableData@64bf3bbf]" name="setUp" is-config="true" duration-ms="6914" started-at="2021-04-24T13:46:28 EDT" finished-at="2021-04-24T13:46:35 EDT">
+        <test-method status="PASS" signature="setUp(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:table.data.TestWebTableData@148080bb]" name="setUp" is-config="true" duration-ms="6042" started-at="2021-04-24T14:59:39 EDT" finished-at="2021-04-24T14:59:45 EDT">
           <params>
             <param index="0">
               <value>
@@ -48,11 +48,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="readWebText()[pri:0, instance:table.data.TestWebTableData@64bf3bbf]" name="readWebText" duration-ms="143" started-at="2021-04-24T13:46:35 EDT" finished-at="2021-04-24T13:46:35 EDT">
+        <test-method status="PASS" signature="readWebText()[pri:0, instance:table.data.TestWebTableData@148080bb]" name="readWebText" duration-ms="1240" started-at="2021-04-24T14:59:45 EDT" finished-at="2021-04-24T14:59:46 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- readWebText -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:table.data.TestWebTableData@64bf3bbf]" name="cleanUp" is-config="true" duration-ms="272" started-at="2021-04-24T13:46:35 EDT" finished-at="2021-04-24T13:46:35 EDT">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:table.data.TestWebTableData@148080bb]" name="cleanUp" is-config="true" duration-ms="278" started-at="2021-04-24T14:59:46 EDT" finished-at="2021-04-24T14:59:46 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->

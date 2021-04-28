@@ -2,10 +2,10 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="NYPost Test Script" duration-ms="14" started-at="2021-04-24T13:46:27 EDT" finished-at="2021-04-24T13:46:27 EDT">
+  <suite name="NYPost Test Script" duration-ms="13" started-at="2021-04-24T14:59:38 EDT" finished-at="2021-04-24T14:59:38 EDT">
     <groups>
     </groups>
-    <test name="NYP Home" duration-ms="14" started-at="2021-04-24T13:46:27 EDT" finished-at="2021-04-24T13:46:27 EDT">
+    <test name="NYP Home" duration-ms="13" started-at="2021-04-24T14:59:38 EDT" finished-at="2021-04-24T14:59:38 EDT">
     </test> <!-- NYP Home -->
   </suite> <!-- NYPost Test Script -->
 </testng-results>
