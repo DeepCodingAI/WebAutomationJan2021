@@ -3,7 +3,7 @@
 
 <suite name ="Amazon Test Script" parallel="false">
 
-    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="useCloudEnv" value="false"/>
     <parameter name="envName" value="browserstack"/>
     <parameter name="os" value="OS X"/>
     <parameter name="os_version" value="Sierra"/>
@@ -16,7 +16,7 @@
         <classes>
             <class name="landingpage.PageTitle"></class>
 <!--            <class name="landingpage.Search"></class>-->
-<!--            <class name="landingpage.TestSearch"></class>-->
+            <class name="landingpage.TestSearch"></class>
         </classes>
 
     </test>
