@@ -1,9 +1,11 @@
 package pages;
 
+import base.CommonAPI;
 import datafetch.FetchTheSteps;
 import org.openqa.selenium.InvalidArgumentException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
+import reporting.TestLogger;
 
 import java.io.IOException;
 
@@ -34,6 +36,7 @@ public class AllFunctionality {
     }
 
     public void sectionsMenu(WebDriver driver)throws InterruptedException{
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         clickOnSectionMenu(driver);
         sectionPage = PageFactory.initElements(driver,SectionPage.class);
         String headLineNews = sectionPage.goToMetroPage(driver).getHeadLineNewsText();
@@ -45,6 +48,7 @@ public class AllFunctionality {
     }
 
     public void runAllTheFeatureTest(WebDriver driver) throws InterruptedException, IOException {
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         FetchTheSteps fetchTheSteps = new FetchTheSteps();
         String [] featureSteps = fetchTheSteps.getDataFromExcelFile();
         for (int i=1; i<featureSteps.length; i++){
@@ -52,6 +56,7 @@ public class AllFunctionality {
         }
     }
     public void select(String featureName, WebDriver driver)throws InterruptedException,IOException{
+        TestLogger.log(getClass().getSimpleName() + ": " + CommonAPI.convertToString(new Object(){}.getClass().getEnclosingMethod().getName()));
         switch(featureName){
             case "signUp":
                 signUp(driver);

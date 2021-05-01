@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">NYPost Test Script</th></tr>
+<tr><td><a href="#t0">NYP Home</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">62,931</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">NYPost Test Script</th></tr></tbody><tbody id="t0"><tr><th colspan="4">NYP Home &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">homepage.TestAllFunctionality</td><td><a href="#m0">newsFeatures</a></td><td rowspan="1">1619896418400</td><td rowspan="1">2587</td></tr></tbody>
+</table>
+<h2>NYP Home</h2><h3 id="m0">homepage.TestAllFunctionality#newsFeatures</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">TestAllFunctionality: news Features<br/>AllFunctionality: run All The Feature Test<br/>AllFunctionality: select</div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.ElementNotInteractableException: Element &lt;button id=&quot;search-submit&quot; class=&quot;search__submit&quot; type=&quot;submit&quot;&gt; could not be scrolled into view
+Build info: version: &apos;4.0.0-beta-2&apos;, revision: &apos;4ec0cfc112&apos;
+System info: host: &apos;matiurs-MacBook-Pro.local&apos;, ip: &apos;2603:7000:e245:e600:0:0:0:3&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;10.15&apos;, java.version: &apos;1.8.0_45&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [578225ce-5314-4a49-bddc-43cd94fab656, clickElement {id=c17506bc-6f81-ff40-9263-ed69836ecdc9}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 88.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20210415204500, moz:debuggerAddress: localhost:63389, moz:geckodriverVersion: 0.29.0, moz:headless: false, moz:processID: 71398, moz:profile: /var/folders/f0/pp1t4wh50hz..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: MAC, platformName: MAC, platformVersion: 19.0.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Element: [[FirefoxDriver: firefox on MAC (578225ce-5314-4a49-bddc-43cd94fab656)] -&gt; css selector: #search-submit]
+Session ID: 578225ce-5314-4a49-bddc-43cd94fab656
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:195)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:128)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:52)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:187)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:153)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:128)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:620)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:239)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:77)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+	at com.sun.proxy.$Proxy15.click(Unknown Source)
+	at pages.SearchPage.clickOnSubmitButton(SearchPage.java:26)
+	at pages.SearchPage.searchIconClickNEnterNewsNSubmit(SearchPage.java:31)
+	at pages.AllFunctionality.search(AllFunctionality.java:30)
+	at pages.AllFunctionality.select(AllFunctionality.java:68)
+	at pages.AllFunctionality.runAllTheFeatureTest(AllFunctionality.java:55)
+	at homepage.TestAllFunctionality.newsFeatures(TestAllFunctionality.java:17)
+	at java.util.ArrayList.forEach(ArrayList.java:1249)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:110)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>
